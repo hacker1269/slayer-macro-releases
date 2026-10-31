@@ -13,6 +13,7 @@ Open it, choose your options and press **Install**: no admin rights needed. Afte
 - **Collects silver boxes** and doubles offline earnings
 - **Uses the daily skip** at the moment it saves the most mission time
 - **Plans your ultra ascension**: pick a date and it gets every minion to max level by then, prestiging on the way for the most divinity points. You ultra ascend yourself
+- **Tracks your quests**: daily, weekly and story quests with their progress, from your save
 - **Shows your progress** on one page: timers, coins, slayer points, ultra slayer points, divinity points and silver boxes
 - **Sends Discord reports** after each session and every hour, if you want them
 
