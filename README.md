@@ -44,7 +44,6 @@ The exe isn't code signed, so Windows Smart App Control or SmartScreen can flag 
 ## Good to know
 
 - This is a fan-made tool, not made by or connected to the developers of Idle Slayer. Use it at your own risk.
-- The Armory isn't counted yet, so **Divinity points left** will read too high if you've put points into it.
 - If you also play on your phone, the app can only see that progress once the game has opened on your PC. It opens the game now and then to catch up.
 
 ## Problems?
