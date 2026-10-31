@@ -4,7 +4,7 @@ A Windows app that looks after your [Idle Slayer](https://store.steampowered.com
 
 **[Download SlayerMacro.exe](https://github.com/hacker1269/slayer-macro-releases/releases/latest/download/SlayerMacro.exe)**
 
-Just the one file: no installer. After this first download, the app tells you when a new version is out and updates itself with one click.
+Open it once and it installs itself: no admin rights and no setup steps. After that, search for Slayer Macro in Windows to open it, like any other app. When a new version is out, one click closes the app for a moment and reopens it on the update.
 
 ## What it does
 
@@ -12,6 +12,7 @@ Just the one file: no installer. After this first download, the app tells you wh
 - **Prestiges minions** when they reach max level, with a toggle for each minion
 - **Collects silver boxes** and doubles offline earnings
 - **Uses the daily skip** at the moment it saves the most mission time
+- **Plans your ultra ascension**: pick a date and it gets every minion to max level by then, prestiging on the way for the most divinity points. You ultra ascend yourself
 - **Shows your progress** on one page: timers, coins, slayer points, ultra slayer points, divinity points and silver boxes
 - **Sends Discord reports** after each session and every hour, if you want them
 
@@ -27,12 +28,12 @@ If something in your game's setup would cause problems, the app tells you what's
 
 ## Getting started
 
-1. Download `SlayerMacro.exe` and put it anywhere you like.
-2. Open it. If Windows warns you about it, see below.
+1. Download `SlayerMacro.exe`.
+2. Open it. If Windows warns you about it, see below. It installs itself, removes the download and opens.
 3. Press **Start**.
 4. Press **I'm leaving** when you step away, or just leave: it starts once you've been idle for the time set in Settings.
 
-The app lives in the system tray while it runs. Your settings and logs are kept in `%LOCALAPPDATA%\Slayer Macro`, so they stay put when you update or move the exe.
+The app lives in the system tray while it runs. Your settings and logs are kept in `%LOCALAPPDATA%\Slayer Macro`, so they stay put when you update. To remove the app, use **Installed apps** in Windows Settings.
 
 ## If Windows blocks it
 
