@@ -4,7 +4,7 @@ A Windows app that looks after your [Idle Slayer](https://store.steampowered.com
 
 **[Download SlayerMacro.exe](https://github.com/hacker1269/slayer-macro-releases/releases/latest/download/SlayerMacro.exe)**
 
-Open it once and it installs itself: no admin rights and no setup steps. After that, search for Slayer Macro in Windows to open it, like any other app. When a new version is out, one click closes the app for a moment and reopens it on the update.
+Open it, choose your options and press **Install**: no admin rights needed. After that, search for Slayer Macro in Windows to open it, like any other app. When a new version is out, one click closes the app for a moment and reopens it on the update.
 
 ## What it does
 
@@ -29,9 +29,10 @@ If something in your game's setup would cause problems, the app tells you what's
 ## Getting started
 
 1. Download `SlayerMacro.exe`.
-2. Open it. If Windows warns you about it, see below. It installs itself, removes the download and opens.
-3. Press **Start**.
-4. Press **I'm leaving** when you step away, or just leave: it starts once you've been idle for the time set in Settings.
+2. Open it. If Windows warns you about it, see below.
+3. Press **Install**. The download is removed and the app opens.
+4. Press **Start**.
+5. Press **I'm leaving** when you step away, or just leave: it starts once you've been idle for the time set in Settings.
 
 The app lives in the system tray while it runs. Your settings and logs are kept in `%LOCALAPPDATA%\Slayer Macro`, so they stay put when you update. To remove the app, use **Installed apps** in Windows Settings.
 
